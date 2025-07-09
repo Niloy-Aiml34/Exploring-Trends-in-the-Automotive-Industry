@@ -1,6 +1,6 @@
 ## Exploring Trends in the Automotive Industry
 
- [Exploring Trends in the Automotive Industry.twbx](Exploring Trends in the Automotive Industry.png)
+ 
 
  ## Project Description
 
