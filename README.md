@@ -22,5 +22,5 @@ Key visualizations include:
 - Correlation analysis between pricing factors
 - Forecasting of future pricing based on trends
 
-![Tableau Dashboard]()
+![Tableau Dashboard](https://github.com/Niloy-Aiml34/Exploring-Trends-in-the-Automotive-Industry/blob/main/Tableau%20Dashboard_4.png)
 
